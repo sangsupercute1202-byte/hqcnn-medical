@@ -1,0 +1,24 @@
+# Python virtualenv
+backend/venv/
+venv/
+**/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Build
+frontend/build/
+
+# Model files
+backend/models/*.pth
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
